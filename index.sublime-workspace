@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"BO",
+				"border"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"baca",
+				"background-attachment"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"lo",
+				"Logo"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"s",
+				"select"
+			],
+			[
+				"se",
+				"sexo"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"em",
+				"em"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"ti",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/campanhas.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/biografia.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/index.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/contato.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/estilo.css",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/div-span.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Projeto Anna Bella/37. #ProjetoAnna Bella/estilo.css",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/projeto_anna_bella.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/estilo.css",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/pagina2.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/pagina1.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/estilos_de_textos.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/cor_imagens_de_fundo.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/cor_imagens_de_fundo",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/tamanhos_de_textos.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/bordas.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/Classes_ids.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/inline_style.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/ProjetoCSS3/inline_style.htlm",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Final/index.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Final/contato.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/index.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/contato.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Aula/Projeto.html",
+		"/C/Users/vinic/OneDrive/Documentos/Projeto Web/index.html",
+		"/C/Users/vinic/OneDrive/Área de Trabalho/Projeto Aula/Projeto.html",
+		"/C/Users/vinic/OneDrive/Área de Trabalho/Projeto Aula/CSS/estilo.css",
+		"/C/Users/vinic/OneDrive/Área de Trabalho/Projeto Aula/index.html",
+		"/C/Users/vinic/OneDrive/Área de Trabalho/Projeto Web/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
